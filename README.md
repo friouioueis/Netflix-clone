@@ -27,4 +27,23 @@ https://netflix-clone-ee6a1.web.app/
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Capture1](https://user-images.githubusercontent.com/43782909/115406552-94c31280-a1ef-11eb-907a-6a576a071b37.PNG)
