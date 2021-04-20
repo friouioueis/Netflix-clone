@@ -20,3 +20,5 @@ $ npm start
 You can always check the live version hosted on firebase Hosting system following this link
 
 https://netflix-clone-ee6a1.web.app/
+
+#### Screenshots
