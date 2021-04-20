@@ -10,8 +10,9 @@ $ npm i
 
 To run the project in development environment you run the following command
 
+```
 $ npm start
-
+```
 ### Live Version
 
 You can always check the live version hosted on firebase Hosting system following this link
