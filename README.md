@@ -15,10 +15,10 @@ To run the project in development environment you run the following command
 ```
 $ npm start
 ```
-### Live Version
+## Live Version
 
 You can always check the live version hosted on firebase Hosting system following this link
 
 https://netflix-clone-ee6a1.web.app/
 
-#### Screenshots
+## Screenshots
