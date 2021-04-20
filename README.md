@@ -6,7 +6,9 @@ This project is a clone of the movie streaming website Netlfix. It was developed
 
 You run the following command to install the project dependencies
 
+```
 $ npm i
+```
 
 To run the project in development environment you run the following command
 
