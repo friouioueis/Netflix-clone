@@ -22,6 +22,6 @@ You can always check the live version hosted on firebase Hosting system followin
 https://netflix-clone-ee6a1.web.app/
 
 ## Screenshots
-![Capture](https://user-images.githubusercontent.com/43782909/115406513-8d036e00-a1ef-11eb-9655-b3b73e1d4570.PNG)
+![Capture](https://user-images.githubusercontent.com/43782909/115407150-17e46880-a1f0-11eb-88cd-d0727d00306e.PNG)
 
 ![Capture1](https://user-images.githubusercontent.com/43782909/115406552-94c31280-a1ef-11eb-907a-6a576a071b37.PNG)
